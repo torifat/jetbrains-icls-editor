@@ -16,7 +16,7 @@
     "flux": "^2.0.1",
     "immutable": "^3.6.4",
     "keymirror": "^0.1.1",
-    "react": "^0.13.1",
+    "react": "^16.13.1",
     "underscore": "^1.8.2"
   },
   "devDependencies": {
